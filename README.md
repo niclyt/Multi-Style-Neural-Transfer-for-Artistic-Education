@@ -1,7 +1,7 @@
 # Multi-Style-Neural-Transfer-for-Artistic-Education
 CM3070 Final Project: Template 3.1 Project Idea 1 - Neural Style Transfer
 
-## Project OVerview
+## Project Overview
 This project demonstrates multi-style neural style transfer (NST) as an educational tool.
 It blends different artistic styles (e.g., Monet + Van Gogh) into a single image and provides both:
 
@@ -12,8 +12,8 @@ It blends different artistic styles (e.g., Monet + Van Gogh) into a single image
 
 - `Multi-Style_NST_Portfolio.ipynb`: Main Jupyter Notebook portfolio with interactive interface (Chapter 8).
 - `interactive_exports/`: This folder is used for *Chapter 8.4 Save and Compare*, where users get to compare the images and save the results into here. 2 example images have been include for reference.
--`content_images/`: Contain image I used for this project. *You can replace it with your own preferred image.*
-- `outputs/`: Folder containing generated blended images. *You can delete these images and have your own generated images in it*
+- `content_images/`: Contain image I used for this project. *You can replace it with your own preferred image.*
+- `outputs/`: Folder containing generated blended images. *You can delete these images and have your own generated images in them*
 - `previews/`: Folder to save preview versions of the images in Chapter 2.3, to verify that the images have loaded correctly without crashing the notebook.
 - `style_images/`: Folder containing our Monet and Vincent Van Gogh paintings. Feel free to replace it with your preferred art styles images and make the following code changes in the `Multi-Style_NST_Portfolio.ipynb` Jupyter Notebook.
 - `All_15_Pairwise_Final_Losses.csv`: Final loss dataset for all pairwise style combinations.
