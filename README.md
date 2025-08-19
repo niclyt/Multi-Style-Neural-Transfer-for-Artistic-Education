@@ -25,53 +25,55 @@ It blends different artistic styles (e.g., Monet + Van Gogh) into a single image
 If you are new to GitHub or Jupyter, here are step-by-step instructions:
 
 1. Install Prerequisites
-(Recommended) Anaconda: https://www.anaconda.com/download
+  - (Recommended) Anaconda: https://www.anaconda.com/download
   OR Python 3.10+
 
-Git: https://git-scm.com/downloads
+  - Git: https://git-scm.com/downloads
  (for cloning the repository)
 
 2. Clone the Repository
-Open a terminal (Anaconda Prompt, PowerShell, or Git Bash) and run:
+  Open a terminal (Anaconda Prompt, PowerShell, or Git Bash) and run:
 
 ```bash
 git clone https://github.com/niclyt/Multi-Style-Neural-Transfer-for-Artistic-Education.git
 ```
 
 3. Navigate to the cloned repository
-```bash
-cd Multi-Style-NST-Portfolio
-```
-This creates a local copy of the project folder on your computer.
+  ```bash
+  cd Multi-Style-NST-Portfolio
+  ```
+  This creates a local copy of the project folder on your computer.
 
 4. Create a Conda Environment
-```bash
-conda create -n nst-env python=3.10
-conda activate nst-env
-```
+  ```bash
+  conda create -n nst-env python=3.10
+  conda activate nst-env
+  ```
 
 5. Install Required Libraries
-```bash
-pip install torch torchvision ipywidgets matplotlib seaborn pandas pillow
-```
+  ```bash
+  pip install torch torchvision ipywidgets matplotlib seaborn pandas pillow
+  ```
 
-5. Launch Jupyter Notebook
+6. Launch Jupyter Notebook
 ```bash
 python -m jupyter notebook
 ``` 
-This opens Jupyter in your browser.
+  This opens Jupyter in your browser.
 
 6. For Full Interactivity
-- Open `Multi-Style_NST_Portfolio.ipynb` in Jupyter Notebook.
-- Feel free to Run the whole notebook and read through findings thats been made.
-- **For Interactivity**
+  - Open `Multi-Style_NST_Portfolio.ipynb` in Jupyter Notebook.
+  - Feel free to Run the whole notebook and read through findings thats been made.
+  - **For Interactivity**
     - Navigate to Chapter 8: Interactive Blender.
     - Use the dropdown, slider, and play controls to explore blended images dynamically.
     - Ensure you have
 
 **Note**: Interactive widgets (sliders, dropdowns, play button) do not function in PDF or HTML exports. They only work when running the notebook live.
 
-7. For Static Reading
-- Head to Static_Reading folder
-- Open the .pdf or .html export for a polished, static view of our main Jupyter Notebook.
-- These contain all results, figures, and explanations except interface interactivity in Chapter 8.
+8. For Static Reading
+  - Head to Static_Reading folder
+  - Open the .pdf or .html export for a polished, static view of our main Jupyter Notebook.
+  - These contain all results, figures, and explanations except interface interactivity in Chapter 8.
+
+Enjoy!!
