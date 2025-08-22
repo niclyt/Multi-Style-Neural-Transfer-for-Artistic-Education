@@ -66,12 +66,13 @@ python -m jupyter notebook
   - Feel free to Run the whole notebook and read through findings thats been made.
     
 8. **For Interactive Blender**
+   <br>
    Section 8.3: Observe how different style blends images change as their weightage gets adjusted
    <img width="1098" height="661" alt="image" src="https://github.com/user-attachments/assets/bc59426d-5648-4373-a72d-a9dedcd9b7fa" />
 
   Section 8.4: Compare the differences and save their comparison images into the `interactive_exports` folder
   <img width="1336" height="726" alt="image" src="https://github.com/user-attachments/assets/b7adb971-5a11-4a99-a3ff-d058e5758f74" />
-  Saved Image:
+  Saved Image:<br>
  ![compare_monet1_monet2_L20_R80](https://github.com/user-attachments/assets/d2d2eaa9-762f-455d-8a9d-7233afdc91ae)
 
 
