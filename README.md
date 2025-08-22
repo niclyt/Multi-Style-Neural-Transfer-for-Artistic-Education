@@ -61,11 +61,12 @@ python -m jupyter notebook
 ``` 
   This opens Jupyter in your browser.
 
-6. For Full Interactivity
+7. For Full Interactivity
   - Open `Multi-Style_NST_Portfolio.ipynb` in Jupyter Notebook.
   - Feel free to Run the whole notebook and read through findings thats been made.
   - **For Interactivity**
     - Navigate to Chapter 8: Interactive Blender.
+    - Select Chapter 8.1-8.4's code and run them in accordance. (Press `ctrl` + `shift` button)
     - Use the dropdown, slider, and play controls to explore blended images dynamically.
     - Ensure you have
 
