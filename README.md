@@ -64,11 +64,18 @@ python -m jupyter notebook
 7. For Full Interactivity
   - Open `Multi-Style_NST_Portfolio.ipynb` in Jupyter Notebook.
   - Feel free to Run the whole notebook and read through findings thats been made.
-  - **For Interactivity**
+    
+8. **For Interactive Blender**
+   Section 8.3: Observe how different style blends images change as their weightage gets adjusted
+   <img width="1098" height="661" alt="image" src="https://github.com/user-attachments/assets/bc59426d-5648-4373-a72d-a9dedcd9b7fa" />
+
+  Section 8.4: Compare the differences and save their comparison images into the `interactive_exports` folder
+  <img width="1315" height="712" alt="image" src="https://github.com/user-attachments/assets/50531453-9f1a-4368-aba6-6f363cf691ea" />
+
+   If you wish only to observe the style blending,
     - Navigate to Chapter 8: Interactive Blender.
     - Select Chapter 8.1-8.4's code and run them in accordance. (Press `ctrl` + `shift` button)
     - Use the dropdown, slider, and play controls to explore blended images dynamically.
-    - Ensure you have
 
 **Note**: Interactive widgets (sliders, dropdowns, play button) do not function in PDF or HTML exports. They only work when running the notebook live.
 
