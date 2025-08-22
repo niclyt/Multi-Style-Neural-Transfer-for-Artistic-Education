@@ -24,48 +24,48 @@ It blends different artistic styles (e.g., Monet + Van Gogh) into a single image
 ## How to Use: Cloning and Running This Project Locally
 If you are new to GitHub or Jupyter, here are step-by-step instructions:
 
-1. Install Prerequisites
+### 1. Install Prerequisites
   - (Recommended) Anaconda: https://www.anaconda.com/download
   OR Python 3.10+
 
   - Git: https://git-scm.com/downloads
  (for cloning the repository)
 
-2. Clone the Repository
+### 2. Clone the Repository
   Open a terminal (Anaconda Prompt, PowerShell, or Git Bash) and run:
 
 ```bash
 git clone https://github.com/niclyt/Multi-Style-Neural-Transfer-for-Artistic-Education.git
 ```
 
-3. Navigate to the cloned repository
+### 3. Navigate to the cloned repository
   ```bash
   cd Multi-Style-NST-Portfolio
   ```
   This creates a local copy of the project folder on your computer.
 
-4. Create a Conda Environment
+### 4. Create a Conda Environment
   ```bash
   conda create -n nst-env python=3.10
   conda activate nst-env
   ```
 
-5. Install Required Libraries
+### 5. Install Required Libraries
   ```bash
   pip install torch torchvision ipywidgets matplotlib seaborn pandas pillow
   ```
 
-6. Launch Jupyter Notebook
+### 6. Launch Jupyter Notebook
 ```bash
 python -m jupyter notebook
 ``` 
   This opens Jupyter in your browser.
 
-7. For Full Interactivity
+### 7. For Full Interactivity
   - Open `Multi-Style_NST_Portfolio.ipynb` in Jupyter Notebook.
   - Feel free to Run the whole notebook and read through findings thats been made.
     
-8. **For Interactive Blender**
+### 8. For Interactive Blender
    <br>
    Section 8.3: Observe how different style blends images change as their weightage gets adjusted
    <img width="1098" height="661" alt="image" src="https://github.com/user-attachments/assets/bc59426d-5648-4373-a72d-a9dedcd9b7fa" />
@@ -83,7 +83,7 @@ python -m jupyter notebook
 
 **Note**: Interactive widgets (sliders, dropdowns, play button) do not function in PDF or HTML exports. They only work when running the notebook live.
 
-8. For Static Reading
+### 9. For Static Reading
   - Head to Static_Reading folder
   - Open the .pdf or .html export for a polished, static view of our main Jupyter Notebook.
   - These contain all results, figures, and explanations except interface interactivity in Chapter 8.
