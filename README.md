@@ -21,6 +21,38 @@ It blends different artistic styles (e.g., Monet + Van Gogh) into a single image
 - SSIM_Content_vs_Stylized.csv: Contains dataset for our SSIM Evaluation
 - `README.md`: This file.
 
+
+```text
+Multi-Style-Neural-Transfer-for-Artistic-Education/
+├─ NST_FinalProject/
+│  ├─ .ipynb_checkpoints/
+│  │
+│  ├─ content_images/
+│  │  ├─ taiwancity.JPG
+│  │
+│  ├─ interactive_exports/
+│  │  ├─ (Comparison images saved from chapter 8.4)
+│  │
+│  ├─ outputs/
+│  │  ├─ taiwancity.JPG
+│  │
+│  ├─ previews/
+│  ├─ style_images/
+│  │  ├─ (Single Style and Two Style Blended Images saved from chapter 4 & 5)
+│  │
+│  ├─ All_15_Pairwise_Final_Losses.csv
+│  ├─ Multi-Style Neural Transfer for Artistic Education.ipynb
+│  ├─ SSIM_Content_vs_Stylized.csv
+│  │
+├─ Static Reading/
+│  ├─ Multi-Style Neural Transfer for Artistic Education (Landscape).pdf
+│  ├─ Multi-Style Neural Transfer for Artistic Education (Portrait).pdf
+│  ├─ Multi-Style Neural Transfer for Artistic Education.html
+│  │
+├─ README.md
+```
+
+
 ## How to Use: Cloning and Running This Project Locally
 If you are new to GitHub or Jupyter, here are step-by-step instructions:
 
