@@ -18,7 +18,25 @@ It blends different artistic styles (e.g., Monet + Van Gogh) into a single image
 - `style_images/`: Folder containing our Monet and Vincent Van Gogh paintings. Feel free to replace it with your preferred art styles images and make the following code changes in the `Multi-Style_NST_Portfolio.ipynb` Jupyter Notebook.
 - `All_15_Pairwise_Final_Losses.csv`: Final loss dataset for all pairwise style combinations.
 - `Multi-Style_NST_Portfolio.html`: This is static web-readable version. Take note that the interactive interface in Chapter 8 will not work in this html.
+- SSIM_Content_vs_Stylized.csv: Contains dataset for our SSIM Evaluation
 - `README.md`: This file.
+
+Multi-Style-Neural-Transfer-for-Artistic-Education/
+├─ NST_FinalProject/
+│  ├─ .ipynb_checkpoints
+│  ├─ content_images
+│  ├─ interactive_exports
+│  ├─ outputs
+│  ├─ previews
+│  ├─ style_images
+│  ├─ All_15_Pairwise_Final_Losses.csv
+│  ├─ Multi-Style Neural Transfer for Artistic Education.ipynb
+│  ├─ SSIM_Content_vs_Stylized.csv
+├─ Static Reading/
+│  ├─ Multi-Style Neural Transfer for Artistic Education (Landscape).pdf
+│  ├─ Multi-Style Neural Transfer for Artistic Education (Portrait).pdf
+│  ├─ Multi-Style Neural Transfer for Artistic Education.html
+├─ README.md
 
 
 ## How to Use: Cloning and Running This Project Locally
