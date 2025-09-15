@@ -94,7 +94,7 @@ python -m jupyter notebook
   This opens Jupyter in your browser.
   Ensure that you are in the nst environment. 
 
-  How to launch if you already have the required libraries:
+  **How to launch if you already have the required libraries:**
 ```bash
     conda activate nst-env
     python -m jupyter notebook
