@@ -92,13 +92,13 @@ git clone https://github.com/niclyt/Multi-Style-Neural-Transfer-for-Artistic-Edu
 python -m jupyter notebook
 ``` 
   This opens Jupyter in your browser.
-  Ensure that you are uin the nst environment. 
+  Ensure that you are in the nst environment. 
 
   How to launch if you already have the required libraries:
-    ```bash
+```bash
     conda activate nst-env
     python -m jupyter notebook
-  ```
+```
 
 ### 7. For Full Interactivity
   - Open `Multi-Style_NST_Portfolio.ipynb` in Jupyter Notebook.
